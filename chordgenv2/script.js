@@ -1,5 +1,5 @@
 //import MidiWriter from 'midi-writer-js';
-//add comments to all of the code below
+//add comments to all of the code below blabh blah blah
 
 (function () {
   "use strict";
